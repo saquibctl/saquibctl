@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Saquib Khan 👋
 
-<!--
-**saquibctl/saquibctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Platform Engineering Consultant** — I design secure, production-grade Kubernetes platforms for regulated financial organizations. 13+ years across cloud migration, CI/CD, and platform engineering, based in Dublin.
 
-Here are some ideas to get you started:
+**Current focus**
+- EKS & OpenShift cluster architecture
+- Workload identity (EKS Pod Identity), private PKI (AWS PCA, Vault)
+- Network segmentation for regulated environments
+- Terraform golden modules & GitOps workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Writing**
+I document my platform work at marifahops.com — currently writing the series "EKS to OpenShift: notes from a platform engineer."
+
+**Connect**
+LinkedIn: https://www.linkedin.com/in/saquibkhan08
+Site: https://marifahops.com
