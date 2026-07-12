@@ -9,7 +9,7 @@
 - Terraform golden modules & GitOps workflows
 
 **Writing**
-I write about the problems I solve — no fixed schedule, just real work. I believe in simplicity. Read more on Medium: https://medium.com/@khans4_0809
+I write about the problems I solve — no fixed schedule, just real work. I believe in simplicity. Read more on Medium: https://medium.com/@saquibctl
 
 **Connect**
 LinkedIn: https://www.linkedin.com/in/saquibkhan08
